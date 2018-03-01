@@ -26,3 +26,31 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.number-limited {
+  color: red;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+.plus-number {
+  font-size: 24px;
+  color: darkolivegreen;
+  font-weight: bold;
+}
+
+.plus-button {
+  width: 120px;
+  height: 40px;
+  border-radius: 5px;
+  background: #ccc;
+  border: none;
+  outline: none;
+}
+
+.number-limited {
+  margin: 10px 0 0 0;
+  font-size: 16px;
+}
